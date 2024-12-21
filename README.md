@@ -1,5 +1,5 @@
 # Loan-Approval-Prediction-Web-App
- ![image.alt](https://github.com/subhankarmaji12/Loan-Approval-Prediction-Web-App/blob/main/assets/app.gif?raw=true) 
+ ![image.alt](https://github.com/subhankarmaji12/Loan-Approval-Prediction-Web-App/blob/main/assets/2024-12-21%2017-52-18.gif?raw=true) 
 
 A streamlined web application for predicting loan approvals, helping banks and financial institutions make data-driven decisions.true
 🏦 Loan Approval Prediction App
