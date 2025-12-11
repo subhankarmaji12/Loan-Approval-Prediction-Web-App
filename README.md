@@ -90,7 +90,7 @@ Run the Application:
 
 Interact with the App:
 
-Open the provided URL (usually http://localhost:8501) in your browser.
+Open the provided URL (https://loan-approval-prediction-web-app12.streamlit.app/) in your browser.
 Input customer details to predict loan status dynamically.
 
 🧠 Model Insights
