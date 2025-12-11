@@ -128,7 +128,8 @@ Subhnkar Maji
 Have questions or suggestions? Feel free to reach out!
 
     📧 Email: subhankarmajiwork@gmail.com
-    💼 LinkedIn: https://www.linkedin.com/in/subhankar-maji-7aba49238📄 License
+    💼 LinkedIn: https://www.linkedin.com/in/subhankar-maji-7aba49238
+    📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 ⭐ Show Your Support
